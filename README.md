@@ -97,3 +97,7 @@ Doctor's Population trends               |           Africa population trends
 ![Untitled](IMAGE/M11.png)               | ![Untitled](IMAGE/M12.png) 
 
 ## CONCLUSION
+- From the dataset given we can see that Africa healthcare is in a deplorable state because of 
+1. Lacking of funding of the healthcare system
+2. Increasing population growth without consumerate economic growth
+3. Negligence of Health care Personal Welfare
